@@ -1,2 +1,2 @@
-## Breif
-Put any documents from you initial client-breifing in here.
+## Brief
+Put any documents from you initial client-briefing in here.
